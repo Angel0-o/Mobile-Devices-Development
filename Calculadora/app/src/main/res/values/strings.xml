@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Clean">C</string>
+    <string name="Delete">D</string>
+    <string name="Percent">%</string>
+    <string name="Division">/</string>
+</resources>
