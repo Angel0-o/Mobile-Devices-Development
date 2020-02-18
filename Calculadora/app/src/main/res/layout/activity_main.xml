@@ -101,24 +101,28 @@
             android:id="@+id/button_C"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Clean" />
+            android:text="@string/Clean"
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/button_Delete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Delete" />
+            android:text="@string/Delete"
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/button_Percent"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Percent" />
+            android:text="@string/Percent"
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/button_Div"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/Division" />
+            android:text="@string/Division"
+            android:textSize="24sp" />
     </TableRow>
 </androidx.constraintlayout.widget.ConstraintLayout>
