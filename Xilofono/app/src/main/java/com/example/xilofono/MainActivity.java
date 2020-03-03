@@ -7,6 +7,8 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.xilofono.R;
+
 import java.io.FileDescriptor;
 import java.io.IOException;
 
