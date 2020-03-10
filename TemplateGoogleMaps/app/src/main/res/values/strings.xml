@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TemplateGoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Button_Mexico">Mexico</string>
+    <string name="Button_Eiffel">Eiffel</string>
+    <string name="Button_BigBen">Big Ben</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
